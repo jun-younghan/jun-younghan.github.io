@@ -7,10 +7,9 @@ main:
 
 
   counts :
-    - title : "카테고리"
+    - title : "Categories"
       use : true
-    - title : "태그"
-      use : true
+    
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
