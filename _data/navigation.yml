@@ -6,9 +6,9 @@ main:
     url: /search/
 
 
-  counts :
-    - title : "Categories"
-      use : true
+counts :
+  - title : "Categories"
+    use : true
     
     
   # - title: "About"
