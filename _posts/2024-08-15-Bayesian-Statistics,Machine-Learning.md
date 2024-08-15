@@ -48,7 +48,7 @@ The process of finding parameters is shown through Bayes' theorem as follows.
 We know a prior called P(model), and if new data is observed, machine learning is the process of getting a
 posterior(P(model | data)) and gradually finding the distribution of p(model) while using it as a prior for the next learning.
 
-# Is it improtant to updating prior?
+## Is it improtant to updating prior?
 
 
 From the graph above, it can be seen that the performance of the classifier using the Bayesian method can vary significantly.
