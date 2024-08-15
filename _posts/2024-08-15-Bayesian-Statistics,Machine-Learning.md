@@ -15,6 +15,7 @@ sidebar :
 ## Conditional Probability
 Conditional Probability is the probability of another event occurring when one event occurs.
 The probability for k events through the conditional probability is expressed by the following equation.
+![image](https://github.com/user-attachments/assets/d8da356f-0e8b-47a6-87f1-782e960dd5e3)
 
 ## Partition
 If a set of K is to be a partition of any set S
