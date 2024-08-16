@@ -2,7 +2,7 @@
 title : Bayesian statistics, Machine Learning
 excerpt : Most important theorem at ML
 categories :
-        - stduy
+        - study
         - machine-learning
 toc : true
 author_profile : false
