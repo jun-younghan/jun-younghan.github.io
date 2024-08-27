@@ -169,6 +169,8 @@ author_profile: false
 
 은각사에 갔다가 저녁을 뭘 먹을지 친구랑 고민하다가 마땅히 먹을게 생각나지 않아서 다시 이치란 갔어여. 저녁 먹고 제가 젤 좋아하는 향수 브랜드인 르라보에 구경 갔어요. 
 여기서 전세계 각 도시에서만 볼 수 있는 city exclusive 향수들을 다 볼수 있었는데!! 너무 좋은 경험이었어요. 거의 다 처음 맡아보는 향들인데 개인적으로는 상하이,베를린,뉴욕 이 3가지 향수가 정말 매력적이었어요. 물론, 너무 비싼게 흠이지만,,,ㅋㅋㅋㅋㅋ
+
+
 ![KakaoTalk_20240827_172340649_17](https://github.com/user-attachments/assets/00e7ec00-c4ab-48f1-9d46-813d8595a1b7)
 
 ![KakaoTalk_20240827_172340649_18](https://github.com/user-attachments/assets/167ae011-5d18-45b3-bc95-02d529c0c0f7)
